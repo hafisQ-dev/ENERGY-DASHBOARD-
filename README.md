@@ -1,4 +1,4 @@
-#  Real-Time Energy Quality Monitoring Dashboard
+#  Dynamic Data Visualization To Track Energy Efficiency
 
 A high-fidelity, industrial-grade energy monitoring dashboard built with **Python**, **Streamlit**, and **Plotly**. This application simulates real-time electrical power data and provides interactive visualizations for power quality analysis.
 
